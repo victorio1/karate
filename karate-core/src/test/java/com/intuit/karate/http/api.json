@@ -1,8 +1,0 @@
-{
-    "path": "/api/demo",
-    "isBase64Encoded": false,
-    "multiValueQueryStringParameters": null,
-    "multiValueHeaders": null,
-    "httpMethod": "GET",
-    "body": null
-}
